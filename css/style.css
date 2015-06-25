@@ -1,0 +1,11 @@
+/* This is a comment */
+
+/* CSS Sntax
+selectors outside of the curly braces are either by type, id, by class,
+or compound which can do combinations thereof
+*/
+
+p {
+  font-size: 16px; /*16px, ?pts, 100%, 1em*/
+  
+}
