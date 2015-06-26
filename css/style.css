@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+/* This is a comment */
+
+/* CSS Sntax
+selectors outside of the curly braces are either by type, id, by class,
+or compound which can do combinations thereof
+*/
+
+p {
+  font-size: 16px; /*16px, ?pts, 100%, 1em*/
+  
+}
+=======
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
@@ -392,3 +405,4 @@ footer {
 
 
 
+>>>>>>> 1c342a33d7ecee940cd756e81e56cfd8a8c0ffdb
